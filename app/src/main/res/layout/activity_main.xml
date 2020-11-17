@@ -12,7 +12,7 @@
         android:layout_height="wrap_content"
         android:text="SignIn"
         android:layout_marginTop="50dp"
-        android:gravity="center"
+        android:gravity="center_horizontal"
         android:textColor="#E2097556"
         android:textStyle="bold|italic"
         android:textSize="30dp"
